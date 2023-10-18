@@ -2,7 +2,7 @@
 /**
  * puts2 - Function should print only one character out of two
  * starting with the first one
- * @str : input string
+ * @str : input
  * Return: print
  */
 void puts2(char *str)
